@@ -6,6 +6,7 @@ I'm **ecokayiza** — passionate about **NLP**, **LLMs**, Agents, and building o
 - 🛠️ Always tinkering with little projects💦
 
 Feel free to reach out: **ecokayiza@gmail.com**
+<div align="right">— Jay Zeng</div>
 <hr>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/ecokayiza?affiliations=OWNER%2CCOLLABORATOR&style=social)
