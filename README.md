@@ -1,17 +1,16 @@
 ## Hi there 👋
-Here is a guy interested in NLP、LLM、Agent and making opensource little tools.
 
-I'm currently learning DL.
+I'm **ecokayiza** — passionate about **NLP**, **LLMs**, Agents, and building open-source tools.🤓👆
 
-Reach me at ecokayiza@gmail.com
+- 🔬 Currently learning Deep Learning (DL)🖐️😭🤚
+- 🛠️ Always tinkering with little projects💦
+
+Feel free to reach out: **ecokayiza@gmail.com**
 <hr>
-<div style="display: flex; align-items: center;">
-      <img src="https://img.shields.io/github/stars/ecokayiza?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars" height="30"/>
-      <a href="http://www.ecokayizasweb.xyz/">
-        <img src="https://img.shields.io/badge/Website-ecokayizasweb.xyz-blue?style=flat-square" alt="Website" height="30"/>
-      </a>
-      <img src="https://komarev.com/ghpvc/?username=ecokayiza" alt="Profile views" height="30"/>
-</div>
+
+![GitHub User's stars](https://img.shields.io/github/stars/ecokayiza?affiliations=OWNER%2CCOLLABORATOR&style=social)
+[![Website](https://img.shields.io/badge/Website-ecokayizasweb.xyz-blue?style=flat-square)](http://www.ecokayizasweb.xyz/)
+![Profile views](https://komarev.com/ghpvc/?username=ecokayiza)
 
 <table>
   <tr>
