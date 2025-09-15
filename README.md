@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Jay Zeng** — passionate about **NLP**, **LLMs**, Agents, and building open-source tools.🤓👆
+I'm **Ecokayiza** — passionate about **NLP**, **LLMs**, Agents, and building open-source tools.🤓👆
 
 - 🔬 Currently learning Deep Learning (DL)🖐️😭🤚
 - 🛠️ Always tinkering with little projects💦
