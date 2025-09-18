@@ -14,7 +14,7 @@ Feel free to reach out: **ecokayiza@gmail.com**
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ecokayiza&show_icons=true&cache_seconds=10" alt="GitHub Stats"  height="150" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ecokayiza&show_icons=true&cache_seconds=86400" alt="GitHub Stats"  height="150" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecokayiza&layout=compact&cache_seconds=10" alt="Top Languages" height="150" /></td>
   </tr>
 </table>
