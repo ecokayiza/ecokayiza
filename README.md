@@ -9,7 +9,7 @@ Feel free to reach out: **ecokayiza@gmail.com**
 <hr>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/ecokayiza?affiliations=OWNER%2CCOLLABORATOR&style=social)
-[![Website](https://img.shields.io/badge/Website-ecokayizasweb.xyz-blue?style=flat-square)](http://www.ecokayizasweb.xyz/)
+[![Website](https://img.shields.io/badge/Website-ecokayiza.top-blue?style=flat-square)](https://www.ecokayiza.top/)
 ![Profile views](https://komarev.com/ghpvc/?username=ecokayiza)
 
 <table>
