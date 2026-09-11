@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **Ecokayiza** — passionate about **LLMs**, **Agents**, ***NLP**, **DataMinning** and building open-source tools.🤓👆
+I'm **Ecokayiza** — passionate about **LLMs**, **Agents**, **NLP**, **DataMinning** and building open-source tools.🤓👆
 
-- 🔬 Currently learning Language Models % AI Agents🖐️😭🤚
+- 🔬 Currently learning Language Models & AI Agents🖐️😭🤚
 - 🛠️ Always tinkering with little projects💦
 
 Feel free to reach out: **ecokayiza@gmail.com**
@@ -14,8 +14,8 @@ Feel free to reach out: **ecokayiza@gmail.com**
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-xi-roan-87.vercel.app/api?username=ecokayiza&show_icons=true&cache_seconds=43200" alt="GitHub Stats"  height="150" /></td>
-    <td><img src="https://github-readme-stats-xi-roan-87.vercel.app/api/top-langs/?username=ecokayiza&layout=compact&cache_seconds=43200" alt="Top Languages" height="150" /></td>
+    <td><img src="https://github-readme-stats-xi-roan-87.vercel.app/api?username=ecokayiza&show_icons=true&cache_seconds=21600" alt="GitHub Stats"  height="150" /></td>
+    <td><img src="https://github-readme-stats-xi-roan-87.vercel.app/api/top-langs/?username=ecokayiza&layout=compact&cache_seconds=21600" alt="Top Languages" height="150" /></td>
   </tr>
 </table>
 <!--
