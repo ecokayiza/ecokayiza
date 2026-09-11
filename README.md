@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **Ecokayiza** — passionate about **NLP**, **LLMs**, Agents, and building open-source tools.🤓👆
+I'm **Ecokayiza** — passionate about **LLMs**, **Agents**, ***NLP**, **DataMinning** and building open-source tools.🤓👆
 
-- 🔬 Currently learning Deep Learning (DL)🖐️😭🤚
+- 🔬 Currently learning Language Models % AI Agents🖐️😭🤚
 - 🛠️ Always tinkering with little projects💦
 
 Feel free to reach out: **ecokayiza@gmail.com**
